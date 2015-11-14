@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+Git Ls a version control system.
+Git Ls free software.
